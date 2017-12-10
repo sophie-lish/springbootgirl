@@ -1,0 +1,10 @@
+cupSize: C
+age: 16
+content: "My cupSize is: ${cupSize}, and My age is: ${age}"
+
+
+server:
+  port: 8085
+girl:
+  age: 22
+  cupSize: D
